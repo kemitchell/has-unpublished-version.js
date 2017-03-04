@@ -1,6 +1,6 @@
 {
   "name": "has-unpublished-version",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "example of a package with an unpublished version",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "kemitchell/has-unpublished-version.js"
